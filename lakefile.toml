@@ -36,3 +36,19 @@ root = "LipoConsManual"
 
 [[lean_lib]]
 name = "P1_P6"
+
+[[lean_lib]]
+name = "PhysarumLaplacian"
+
+[[lean_lib]]
+name = "PhysarumFlux"
+
+[[lean_lib]]
+name = "PhysarumConvergence"
+
+[[lean_lib]]
+name = "Physarum"
+
+
+[[lean_lib]]
+name = "PhysarumQuadForm"
