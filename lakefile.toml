@@ -33,3 +33,6 @@ root = "LipoConsManual"
 name = "manual"
 srcDir = "LipoCons/verso/"
 root = "LipoConsManual"
+
+[[lean_lib]]
+name = "P1_P6"

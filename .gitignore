@@ -1,2 +1,13 @@
 .lake/
 html
+# Lean build artifacts
+*.olean
+*.olean.private
+*.olean.server
+*.olean.hash
+*.ilean
+*.ilean.hash
+*.ir
+*.ir.sig
+*.ir.hash
+*.trace
